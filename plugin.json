@@ -379,28 +379,6 @@
         "name": "OlgplyProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=www.2embed.to&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
-        "fileSize": 61235,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie",
-            "Anime",
-            "AnimeMovie"
-        ],
-        "version": 9,
-        "internalName": "SflixProvider",
-        "description": "Due to the video host changing encryption methods extremely often these extensions might not work perfectly. Also includes Dopebox, Solarmovie, Zoro, HDToday and 2embed",
-        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/SflixProvider.cs3",
-        "name": "SflixProvider"
-    },
-    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=secretlink.xyz&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
