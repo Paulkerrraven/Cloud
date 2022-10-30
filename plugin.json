@@ -97,26 +97,6 @@
         "name": "AnimePaheProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=ask4movie.mx&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
-        "fileSize": 13827,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            "Blatzar"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie",
-            "AnimeMovie"
-        ],
-        "version": 4,
-        "internalName": "Ask4Movie",
-        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/Ask4Movie.cs3",
-        "name": "Ask4Movie"
-    },
-    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=bestdubbedanime.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
